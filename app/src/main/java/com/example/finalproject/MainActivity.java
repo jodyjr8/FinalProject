@@ -33,12 +33,10 @@ public class MainActivity extends AppCompatActivity {
         mRecyclerView.setAdapter(mAdapter);
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
 
-
         mWordList.add(getString(R.string.story_1));
         mWordList.addLast(getString(R.string.story_2));
         mWordList.addLast(getString(R.string.story_3));
         mWordList.addLast(getString(R.string.story_4));
-
         mWordList.addLast(getString(R.string.story_6));
     }
 

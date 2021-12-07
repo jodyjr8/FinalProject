@@ -17,11 +17,13 @@ public class ExampleUnitTest {
     @Test
     public void string_isEqual(){
         String message = "hello";
-        assertEquals(true, message.equals("hello") ); // Dont do ==
+        assertEquals(true, message.equals("hello") );
     }
     @Test
-    public void puzzle_isCorrect(){
-        int x = 4; int y = 5; int z = 6;
-        assertEquals(26, x*y+z);
+    public void decision_isTrue(){
+        String decision = "notAte";
+        assertEquals(true, decision == "notAte"); //wont work if null
     }
+
+
 }
