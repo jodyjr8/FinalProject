@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="text_view">TextView</string>
+
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+
+    <string name="story_1">On Alpha 1, meteor strikes happen daily. </string>
+    <string name="story_2">This is because many of it"'"s moons shattering due the strong gravitational pull of the planet.</string>
+    <string name="story_3">The only protection this world has against these meteors is a crystal gem creating a magnetic field, destroying the debris before it hits the surface.</string>
+    <string name="story_4">Your job is to make sure the crystal gem does NOT fall off its pedestal.</string>
+    <string name="story_5">On this planet, meteor strikes happen daily. </string>
+    <string name="story_6">Today, you just woke up and still feel a little tired. Do you want to go back to sleep, or get up? </string>
+    <string name="wake_up">Wake up</string>
+    <string name="sleep">Go back to Sleep</string>
+    <string name="second_story1">Through the stiff muscles and your body begging you to go back to sleep you manage to get up.
+        \nYou head downstairs to your cabin"'"s kitchen, deciding what you want to eat before you check in on the crystal.
+        \nDo you want to grab an apple or just get on with your day?
+    </string>
+    <string name="end_world1">You decide to sleep in without checking on the crystal gem.
+        \nLittle did you know, a gust of wind blew the gem off it"'"s pedestal.
+        \nDue to your laziness, the daily meteor strike has destroyed Alpha 1 and soon all life on this  once bountiful planet will perish.
+    </string>
+    <string name="game_over_text">GAME OVER</string>
+    <string name="eat_apple_text">Eat Apple</string>
+    <string name="eat_nothing_text">Eat nothing</string>
+    <string name="enter_password_here">Enter password here</string>
+    <string name="third_story1">As you leave your cabin and walk the small distance to the gem"'"s pedestal, you happen to notice it has fallen to the ground.
+        \nYou recall that if the gem stays on the ground too long, the meteor debris will destroy the planet.
+        \nWhat do you do?
+    </string>
+    <string name="send">Send</string>
+    <string name="replace_gem">Replace Gem</string>
+    <string name="leave_gem">Leave Gem</string>
+    <string name="third_story2">As you replace the gem, you hear a soft hum as a blue aura fills the sky.
+            \nAs you look up, you can see the debris hitting what seems to be an invisible dome.
+            \nThe debris is completely stopped in it"'"s tracks and Alpha 1 seems safe, for now.
+    </string>
+    <string name="starvation">As you replace the gem, you hear a soft hum as a blue aura fills the sky.
+            \nAs you look up, you can see the debris hitting what seems to be an invisible dome.
+            \nThe debris is completely stopped in it"'"s tracks and Alpha 1 seems safe, for now.
+            \nAs you walk back to your cabin, the rumblings of your stomach prove to be too much for you as you pass out on the way back home.</string>
+    <string name="leftgem">You decide the best course of action is to leave the gem alone for now.
+            \nAs you walk back to your cabin, however, you take glance up to the sky as some meteor debris start falling towards Alpha 1.
+            \nYour heart starts racing as it slowly gets bigger and bigger…
+    </string>
+</resources>
